@@ -1,3 +1,3 @@
 from src.greetings import greetings
 
-print(greetings.greeting() + ", world!")
+print(f"{greetings.greeting()}, world!")
